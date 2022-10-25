@@ -1,0 +1,436 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "student": 488,
+    "level" : "Beginner",
+    "price": 84.99,
+    "title": "Real World Coding in HTML & CSS",
+    "image_url": "https://media.onlinecoursebay.com/2019/03/28014256/1478856_fbef_3.jpg",
+    "details": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust.Don't limit yourself by creating websites with some cheesy site-builder tool.This course teaches you how to take 100% control over your webpages by using the same concepts that every professional website is created with.This course does not assume any prior experience. We start at square one and learn together bit by bit. By the end of the course you will have created (by hand) a website that looks great on phones, tablets, laptops, and desktops alike.In the summer of 2020 the course has received a new section where we push our website live up onto the web using the free GitHub Pages service; this means you'll be able to share a link to what you've created with your friends, family, colleagues and the world!.",
+    "feature": [
+      "Create any website layout you can imagine.",
+      "Add tasteful animations and effects with CSS3.",
+      "Use common vocabulary from the design industry.",
+      "Anyone who wants to build websites the professional way.",
+      "Support any device size with Responsive (mobile-friendly) Design.",
+      "Experienced developers looking to renew their HTML5 & CSS3 knowledge.",
+      "Anyone who has practiced web design as a hobby but is not confident about their skillset in a professional arena.",
+      "Also Have Some Many Features"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "03",
+    "student": 488,
+    "level" : "Beginner",
+    "price": 84.99,
+    "title": "Python for Absolute Beginners",
+    "image_url": "https://www.freecoursesonline.me/wp-content/uploads/2020/10/Python-For-Absolute.png",
+    "details": "Learn Python, a programming language with a wide variety of well-paying jobs in many fields, including data science and web development.It is relatively easy to learn when compared to pretty much any other programming language since most of the time, using Python to do something will take less lines of code than with another programming language.In this course, you will be taught the fundamentals of Python through video lectures, quizzes, review exercises, and programming challenges.",
+    "feature": [
+      "Program fluently in Python.",
+      "Use Pycharm to write their Python programs.",
+      "Newer Python programmers who need a refresher on Python.",
+      "This course is NOT for experienced Python programmers.",
+      "Understand computer science concepts such as flow control and functions.",
+      "People interested in programming who have no prior programming experience.",
+      "Students taking a Python class in school who want a supplementary learning resource."
+    ]
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "student": 1000,
+    "level" : "Beginner",
+    "price": 74.99,
+    "title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8caaw1hY--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/k5dp029baand3ni510db.jpg",
+    "details": "This step-by-step HTML and CSS course will help you learn coding fast and with an instructor that really cares about his students.Learning to code will help you make more money in your job, or even find a better job, or better yet, get a nice job as a web developer.HTML and CSS are the foundations you need to get into any programming language.Everything new is hard but programming doesn't have to be. Learning HTML and CSS is the first stepping stone you need to start programming . This course was created with a dummy approach, meaning even people with difficulty learning technology will learn. I also guaranteed that even small kids can learn its material. You will feel like you are beside me when taking the lecture, we will be buddies until the end of this course and even after. After this course, you will have a good understanding of HTML and CSS and will be able to start your journey into the beautiful world of programming.",
+    "feature": [
+      "You will Learn HTML.",
+      "You will learn CSS.",
+      "You will get the skills you need to make websites.",
+      "Total beginners.",
+      "Any person wishing to learn coding.",
+      "Any person that want to edit their website.",
+      "Any Student looking for quick way to learn HTML & CSS should take this course."
+    ]
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "level" : "Beginner",
+    "price": 88.99,
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "student": 1200,
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "image_url": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
+    "details": " 'Really, really well made course. Super in-depth, with great challenges and projects that will solidify your Javascript understanding. I found the lectures were paced perfectly -- Jonas doesn't skip over anything that might be useful to a JS developer' — Carson Bartholomew.JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.That's why you want to learn JavaScript too. And you came to the right place!.",
+    "feature": [
+      "Build 6 beautiful real-world projects for your portfolio (not boring toy apps).",
+      "Become an advanced, confident, and modern JavaScript developer from scratch.",
+      "Become job-ready by understanding how JavaScript really works behind the scenes.",
+      "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+      "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc..",
+      "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs.",
+      "Practice your skills with 50+ challenges and assignments (solutions included)."
+    ]
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "student": 9080,
+    "level" : "Beginner",
+    "price": 88.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "Learn Python Programming Masterclass",
+    "image_url": "https://cdnp3.stackassets.com/2e93415fa35fc33c191ec819a83ac55627f1bc46/store/09f5ea8e3ea41bf9988089a14609e014aec3c8cde893958b5e91172906f2/sale_312032_primary_image.jpg",
+    "details": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python.The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search.And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course.By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers.Here’s what a few students have told us about the course after going through it.“I had very limited programming experience before I started this course, so I have really learned a lot from the first few sections. It has taken me from essentially zero programming skill to a level where I'm comfortable using Python to analyze data for my lab reports, and I'm not even halfway done the course yet. There are other courses out there which focus on data analysis, but those courses are usually targeted at people who already know how to program which is why I chose this course instead.“ –Christian DiMaria",
+    "feature": [
+      "Understand both Python 2 and Python 3.",
+      "Have a fundamental understanding of the Python programming language.",
+      "You will learn CSS.",
+      "Have the skills and understanding of Python to confidently apply for Python programming jobs.",
+      "Learn Python from experienced professional software developers.",
+      "Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science, etc.",
+      "Add the Python Object-Oriented Programming (OOP) skills to your résumé."
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "01",
+    "student": 1080,
+    "level" : "Advanced",
+    "price": 99.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "Modern HTML & CSS (Including Sass)",
+    "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/6584/course_6584_image.jpg",
+    "details": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs.The first few sections are tailored for beginners so even if you have never built anything before, you will learn all of the basics. If you already have experience with basic HTML & CSS, just move to section 3 or 4 and get started.",
+    "feature": [
+      "Build Multiple High Quality Website & UI Projects.",
+      "HTML5 Semantic Layout & CSS Fundamentals.",
+      "Flexbox & CSS Grid Projects.",
+      "CSS Variables, Transitions, Dropdowns, Overlays & More.",
+      "Website Hosting & Deployment With FTP & Git.",
+      "All Skill Levels."
+    ]
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "02",
+    "student": 1820,
+    "level" : "Advanced",
+    "price": 99.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "JavaScript: The Advanced Concepts",
+    "image_url": "https://images.ctfassets.net/aq13lwl6616q/llkUpPk1NrKR5BMEcfyrc/42ebd1b27f3adb25c4a73fa6de52cd06/advanced_javascript_concepts_cover_photo_new.png",
+    "details": "This course is the accumulation of years in the field, and combining the best resources, tools, and tutorials out there to create the ultimate JavaScript course that will teach you everything you need to know to be considered a Senior Javascript Developer.Instead of spending years learning advanced Javascript concepts, you can fast track and get the knowledge that senior javascript developers have in just 30 days.With this course you are going to learn beyond just the basics like most online courses. You won't just learn patterns, techniques and best practices. You are going to understand the 'why' of the toughest part of the language, to the point that when you get asked any question about Javascript in an interview or in a meeting, you will be able to explain concepts that would truly make people see that you are a senior javascript programmer.Most importantly, you will become a top 10% javascript developer by going beyond the superficial basics that a lot of courses cover. We are going to dive deep and come out the other end a confident advanced javascript developer. I guarantee it. Whether you are a web developer, a React, Angular, Vue.js developer (frontend developer), or a Node.js backend developer, you will benefit from this course because Javascript is at the core of these professions.",
+    "feature": [
+      "JavaScript Modules.",
+      "JavaScript best practices.",
+      "Advanced JavaScript Practices.",
+      "Inheritance + Prototype Chain.",
+      "Object Oriented Programming.",
+      "Pass By Reference vs Pass by Value.",
+      "Interpreter/ Compiler/ JIT Compiler",
+      "Pass By Reference vs Pass by Value.",
+      "Asynchronous JavaScript + Event Loop.",
+      "Latest features: ES6, ES7, ES8, ES9, ES10, ES2020, ES2021."
+    ]
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "03",
+    "student": 11111,
+    "level" : "Advanced",
+    "price": 88.99,
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "title": "Python Programming Masterclass Beginner to Advanced",
+    "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
+    "details": "Throughout the course you will find quizzes to gauge your understanding of the material and build your confidence. The video lectures will walk you step by step through mastering key Python concepts, while each section will build upon the knowledge you gain from the previous section. Additional resources, including PDFs, completed Python files and web resources will provide you will additional information. All course material, including the video lectures are available for download so you can learn offline.After you've mastered key Python programming concepts, you'll find projects to challenge your understanding. Each project will give you an opportunity to put what you've learned to practice by creating games and interacting with business data using Python.",
+    "feature": [
+      "Learn Proper Python Syntax.",
+      "Develop Python Modules to Create Re-Usable Code.",
+      "Learn Object Oriented Python Programming Concepts.",
+      "Work with Python Loops to Repeat Blocks of Code.",
+      "Object Oriented Programming.",
+      "Pass By Reference vs Pass by Value.",
+      "Learn Basics of Programming with Python (Variables, Operators, Logic...)"
+    ]
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "04",
+    "student": 9033,
+    "level" : "Beginner",
+    "price": 78.99,
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "title": "PHP for Beginners",
+    "image_url": "https://i.ytimg.com/vi/6EukZDFE_Zg/maxresdefault.jpg",
+    "details": "This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.You will also learn how to style your site using Bootstrap, how to integrate third-party code into your site, how to store data in a relational database and use this from PHP code, and more.The course is very thorough, and goes through everything from installing a web server on your own computer, and editor to writing the code to create your web app.  Towards the end of the course you will even learn how to upload the code and make your code live on the internet (very useful if you already have your own Hosting account).  This is not necessary to complete the course though.",
+    "feature": [
+      "Learn how to secure your code.",
+      "Style your site using Bootstrap.",
+      "Build a working CMS in PHP and MySQL from scratch.",
+      "Work with Python Loops to Repeat Blocks of Code.",
+      "Object Oriented Programming.",
+      "How to store data in a relational database and use this from PHP code.",
+      "Learn all aspects of a basic web application in PHP: login, CRUD operations, sending emails, uploading files, Ajax."
+    ]
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "category_id": "04",
+    "student": 7033,
+    "level" : "Advanced",
+    "price": 98.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+    "image_url": "https://udemycourses.org/wp-content/uploads/2022/03/php-for-beginners-become-a-php-master-cms-project_622abc7f0dca0.jpeg",
+    "details": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal.Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications. Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google.There is no limit to what you can do with this knowledge. PHP is one of the most important web programming languages to learn, and knowing it, will give you SUPER POWERS in the web development world and job market place..",
+    "feature": [
+      "You will learn MySQL.",
+      "You will learn to debug your code.",
+      "Build a working CMS in PHP and MySQL from scratch.",
+      "Object Oriented Programming.",
+      "You will learn to use composer (PHP package manager).",
+      "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla."
+    ]
+    
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "category_id": "05",
+    "student": 127,
+    "level" : "Advanced",
+    "price": 89.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "The Complete Cloud Computing Software Architecture Patterns",
+    "image_url": "https://as2.ftcdn.net/v2/jpg/03/05/29/57/1000_F_305295767_yXukHDLN4Xf22LCd50zkVBbvv6hWCjG1.jpg",
+    "details": "Do you want to become a Software Architect or Technical Lead and work on impactful projects that help millions of users?Then you came to the right place!In this course, you will wear the hat of a Software Architect, solving some of the most challenging and important problems in system design, software architecture, and modern cloud computing.Throughout the course, you will learn the most useful Software Architecture Patterns that any Cloud Software Architect needs to know, and which have already been successfully applied by the top tech companies.",
+    "feature": [
+      "Architect Modern Large Scale Software Systems.",
+      "Design, Deploy and Test Real-Life Production Systems.",
+      "Build a working CMS in PHP and MySQL from scratch.",
+      "Use Cloud Computing to Serve Millions of Users around the World.",
+      "Solve Challenging System Design Problems using Software Architecture Patterns.",
+      "Anyone who wants to gain deep knowledge and expertise in Architecture Large Scale Systems."
+    ]
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "category_id": "05",
+    "student": 1127,
+    "level" : "Advanced",
+    "price": 79.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "Intellij IDE Productivity and Debugging Techniques with Java",
+    "image_url": "https://cdn.inflearn.com/wp-content/uploads/IDEA2.jpg",
+    "details": "Intellij is the industry standard among all Java developers. Any beginner or expert user of the Java programming language looking to improve their productivity via the best IDEs for Java can greatly benefit from the Intellij Productivity and Debugging Techniques Course. Intellij provides smart code completion, code inspections, on-the-fly error highlighting and quick-fixes, along with automated code refactoring and rich live templates. This course will ensure that you master each and every of those capabilities.IntelliJ the most powerful and popular Integrated Development Environments (IDE) for Java. It is developed and maintained by JetBrains and available as community and ultimate edition. This feature rich IDE enables rapid development and helps in improving code quality.",
+    "feature": [
+      "Build a basic Java project with Intellij.",
+      "Optimize KeyMat and learn to use Intellij Short Cuts.",
+      "Learn to perform automatic code, file and project inspection.",
+      "Master all Java error typles, debugging and breakpoints.",
+      "Solve Challenging System Design Problems using Software Architecture Patterns.",
+      "Explore Intellij project builder and project files.",
+      "Integrate GitHub and Git with Intellij. Learn to commit, add, merge code and manage branches."
+    ]
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "category_id": "02",
+    "student": 7000,
+    "level" : "Advanced",
+    "price": 87.89,
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "title": "Advanced Javascript",
+    "image_url": "https://i.ytimg.com/vi/IljVmcDDrOg/maxresdefault.jpg",
+    "details": "Types & Equality: The different types in JS and how to check if two values are really equal? Scopes: The different scopes a variable can be declared in and how to manipulate those scopes.Destructuring  & Looping: Did you know that JavaScript has for methods of looping over things? This: We have a whole section dedicated to the this keyword. A deep understanding of the this keyword is core to becoming a senior JavaScript developer. Object Orientation: The history of OO in JavaScript from the Prototype Pattern to the Pseudo-Classical/Constructor Pattern all the way to the class syntax introduced in ES6. You need to know the previous patterns to truly understand the current class pattern. Asynchronous Programming: JavaScript power is in its asynchronicity, you will learn all about the pros and cons of callbacks, promises and async/await. Advanced topics in Networking such as CORS and JSONP.Advanced topics in Event Handling such as the different event phases.",
+    "feature": [
+      "Pass stage one JavaScript telephone interviews.",
+      "Confidently Interview other JavaScript candidates.",
+      "Impress interviewers with knowledge about advanced JavaScript features.",
+      "Prepare for working on complex frontend frameworks like React, Vue, Svelte or Angular..",
+      "Maybe you just finished another Beginner or Intermediate JavaScript course and want to get to the next level."
+    ]
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "category_id": "06",
+    "student": 6000,
+    "level" : "Beginner",
+    "price": 48.89,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "C++ Programming - From Beginner to Beyond",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "Much, if not most of the software written today is still written in C++ and this has been the case for many, many years.Not only is C++ popular, but it is also a very relevant language. If you go to GitHub you will see that there are a huge number of active C++ repositories and C++ is also extremely active on stack overflow. There are many, many leading software titles written entirely or partly in C++. These include the Windows, Linux, and Mac OSX operating systems!Many of the Adobe products such as Photoshop and Illustrator,  the MySQL and MongoDB database engines, and many many more are written in C++.Leading tech companies use C++ for many of their products and internal research and development. These include Amazon, Apple, Microsoft, PayPal, Google, Facebook, Oracle, and many more.",
+    "feature": [
+      "Learn Modern C++ rather than an obsolete version of C++ that most other courses teach.",
+      "New Section: Learn all about using C++ Lambda Expressions.",
+      "Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments.",
+      "Obtain the key concepts of programming that will also apply to other programming languages.",
+      "Learn C++ from an experienced university full professor who has been using and teaching C++ for more than 25 years."
+    ]
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "category_id": "01",
+    "student": 1000,
+    "level" : "Advanced",
+    "price": 88.78,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+    "image_url": "https://www.freecoursesites.us/wp-content/uploads/2019/03/HTML5CSS3-Web-Design-From-Zero-to-Hero-Build-2-Projects-Course.jpg",
+    "details": "Welcome to 'Advanced CSS and Sass', the most advanced, the most modern, and the most complete CSS course on the internet. It's everything you want in an advanced CSS course, and more.You will learn complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.Like in all my courses, you will build beautiful and carefully designed projects, that will make you proud of yourself and leave you ready to build complex projects on your own.",
+    "feature": [
+      "Tons of modern CSS techniques to create stunning designs and effects.",
+      "Flexbox layouts: build a huge real-world project with flexbox.",
+      "Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments.",
+      "Responsive images in HTML and CSS for faster pageloads.",
+      "Advanced CSS animations with @keyframes, animation and transition."
+    ]
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "category_id": "01",
+    "student": 3200,
+    "level" : "Advanced",
+    "price": 96.78,
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "title": "HTML/CSS Bootcamp - Learn HTML, CSS, Flexbox, and CSS Grid",
+    "image_url": "https://i.ytimg.com/vi/FxqlmI0Oqis/maxresdefault.jpg",
+    "details": "As we go through the course material, you'll notice that I'm going to teach you my own process that I use whenever I'm building out a website.My goal for this entire course isn't just to teach you how to build a single website, but instead my goal is to be able to leverage this project build that we're going to put together, teach you the fundamentals as we implement every single feature, and then by the end of it, you're not just going to be able to build the single website and follow along with what I do, but you'll be able to build any type of website.There are no technical prerequisites for going through this course. This is the perfect course to go through if you want to learn how to build websites completely from scratch.The ideal student is someone who is dedicated, wants to learn, and also wants to learn how to build websites using the most modern and up to date technologies. So, thank you for spending the time and going through this material, and good luck with the coding.",
+    "feature": [
+      "Using CSS based animations.",
+      "Build websites using HTML and CSS.",
+      "Work with CSS Grid to build a website's layout.",
+      "Use Flexbox to easily align content on the page.",
+      "Create responsive websites that render custom layouts for smartphones, tablets and desktops."
+    ]
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "category_id": "02",
+    "student": 552,
+    "level" : "Advanced",
+    "price": 46.78,
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "title": "Learn JavaScript From Scratch",
+    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+    "details": "This course is a step by step guide that will take your hand and guide you through the absolute basics and show you everything you need to learn in order to get started with JavaScript. I've put a lot of effort into this course to make sure that the videos are recorded in high quality, the audio is clear, and the lessons are engaging and informative.If you are looking for the best course on Udemy to learn JavaScript then I stand by this course. With over 2,400 reviews at and average of 4.5 stars I promise you will not be disappointed with your purchase.This course is perfect for beginners to JavaScript or if you are completely new to web development as well. Come join me and let's tackle this extraordinary language one step at a time.",
+    "feature": [
+      "JQuery.",
+      "JavaScript Loops",
+      "JavaScript Arrays.",
+      "JavaScript Variables and Strings.",
+      "How To Work With Numbers in JavaScript."
+    ]
+  },
+  {
+    "_id": "919db97c34e0778b387dd40cdfa08130",
+    "category_id": "01",
+    "student": 89,
+    "level" : "Beginner",
+    "price": 76.99,
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "Code and Design Websites With HTML and CSS",
+    "image_url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/11/how-to-link-a-stylesheet-css-file-to-your-html-file.jpg",
+    "details": "his course will be your gateway to learn web design with HTML5, and CSS3 with a step-by-step approach.  We can assure you that only this course will be enough for you to learn HTML and CSS from scratch to intermediate. Html css, hmtl, html and css, html, website design, css, website coding, build responsive real-world websites with html and css, responsive web design, website designer, design website.HTML stands for HyperText Markup Language, which is the biggest markup language used to display web pages on the Internet. In other words, web pages are composed of HTML, which is used to display text, images, or other resources through a web browser.HTML is the basic building block of the web and actually isn’t a technical programming language. It is responsible for the structure of the website.In this course, we will start with HTML, which is the basis of web development and then we will continue to learn CSS.",
+    "feature": [
+      "HTML & CSS.",
+      "Learn to create static HTML sites",
+      "We will learn to place pages in the easiest way by talking about all layout models in CSS.",
+      "We will improve our knowledge step by step by learning the basics of CSS.",
+      "In the developing world, we will talk about all the details about web design compatible with different screens"
+    ]
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "category_id": "03",
+    "student": 879,
+    "level" : "Beginner",
+    "price": 74.99,
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "Python Programming Bootcamp",
+    "image_url": "https://media.onlinecoursebay.com/2019/03/05022459/1864774_94c0_3-750x405.jpg",
+    "details": "Throughout the course you will find quizzes to gauge your understanding of the material and build your confidence. The video lectures will walk you step by step through mastering key Python concepts, while each section will build upon the knowledge you gain from the previous section. Additional resources, including PDFs, completed Python files and web resources will provide you will additional information. All course material, including the video lectures are available for download so you can learn offline. After you've mastered key Python programming concepts, you'll find projects to challenge your understanding. Each project will give you an opportunity to put what you've learned to practice by creating games and interacting with business data using Python.",
+    "feature": [
+      "GUI Programming Support.",
+      "High-Level Language",
+      "Python is a Portable language.",
+      "Python is an Integrated language.",
+      "Frontend and backend development."
+    ]
+  },
+  {
+    "_id": "be44c843d61859cc0b87cae85c55f9db",
+    "category_id": "01",
+    "student": 231,
+    "level" : "Beginner",
+    "price": 74.99,
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "US to name military mission in Ukraine and appoint commander – WSJ",
+    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+    "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions.",
+    "feature": [
+      "GUI Programming Support.",
+      "High-Level Language",
+      "Python is a Portable language.",
+      "Python is an Integrated language.",
+      "Frontend and backend development."
+    ]
+  },
+  {
+    "_id": "1b03149c50f1bec662062d930bf46489",
+    "category_id": "02",
+    "student": 546,
+    "title": "Opinion: After a summer of surprising successes, President Biden is on a roll",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "category_id": "03",
+    "student": 1870,
+    "title": "Ukraine receives more military aid from allies on its independence day",
+    "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+    "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "student": 354,
+    "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
+    "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
+    "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "category_id": "05",
+
+    "student": 100,
+    "title": "California to phase out sales of gas-powered cars",
+    "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "category_id": "04",
+
+    "student": 100,
+    "title": "“Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy",
+    "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
+    "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship over Ferrari’s Charles Leclerc ahead of the race. And at this rate, Max can cruise comfortably, to claim his 2nd Championship title this season. But Max does not want to lose his focus and momentum ahead of his home GP. He wants to claim his 10th win of the season in front of his home crowd in style. Recently, the Dutch GP unveiled a rather unique-looking trophy. And McLaren driver Lando Norris liked the new trophy.   a journalist asks lando if he likes the dutch gp trophy and if it will be his on sunday: “no, it’s max’s. everyone knows it’s max’s already. maybe max will give it to me, he has plenty.” i love lando norris and max verstappen friendship pic.twitter.com/LQh9cnwjLv — comfort lando norris (@safeforlando) August 31, 2022 The Brit was grabbing a bicycle in the F1 paddock when he was interviewed by Dutch press personnel. Norris was asked what he thought of the Dutch Grand Prix trophy."
+  }
+]

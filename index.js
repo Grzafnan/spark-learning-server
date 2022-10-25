@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 })
 
 
-app.get('/courses', (req, res) => {
+app.get('/courses-categories', (req, res) => {
   res.send(categories)
 })
 
