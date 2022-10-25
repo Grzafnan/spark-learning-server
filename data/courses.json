@@ -152,7 +152,7 @@
     "price": 88.99,
     "rating": { "number": 4.7, "badge": "Excellent" },
     "title": "Python Programming Masterclass Beginner to Advanced",
-    "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
+    "image_url": "https://www.fossmint.com/wp-content/uploads/2019/02/Udemy-Python-Learning-Courses-for-Beginners.png",
     "details": "Throughout the course you will find quizzes to gauge your understanding of the material and build your confidence. The video lectures will walk you step by step through mastering key Python concepts, while each section will build upon the knowledge you gain from the previous section. Additional resources, including PDFs, completed Python files and web resources will provide you will additional information. All course material, including the video lectures are available for download so you can learn offline.After you've mastered key Python programming concepts, you'll find projects to challenge your understanding. Each project will give you an opportunity to put what you've learned to practice by creating games and interacting with business data using Python.",
     "feature": [
       "Learn Proper Python Syntax.",
@@ -326,7 +326,7 @@
     "price": 46.78,
     "rating": { "number": 4.4, "badge": "Excellent" },
     "title": "Learn JavaScript From Scratch",
-    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+    "image_url": "https://www.simplilearn.com/ice9/webinar_thum_image/JavaScript_Tutorial.jpg",
     "details": "This course is a step by step guide that will take your hand and guide you through the absolute basics and show you everything you need to learn in order to get started with JavaScript. I've put a lot of effort into this course to make sure that the videos are recorded in high quality, the audio is clear, and the lessons are engaging and informative.If you are looking for the best course on Udemy to learn JavaScript then I stand by this course. With over 2,400 reviews at and average of 4.5 stars I promise you will not be disappointed with your purchase.This course is perfect for beginners to JavaScript or if you are completely new to web development as well. Come join me and let's tackle this extraordinary language one step at a time.",
     "feature": [
       "JQuery.",
@@ -345,7 +345,7 @@
     "rating": { "number": 4.6, "badge": "Excellent" },
     "title": "Code and Design Websites With HTML and CSS",
     "image_url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/11/how-to-link-a-stylesheet-css-file-to-your-html-file.jpg",
-    "details": "his course will be your gateway to learn web design with HTML5, and CSS3 with a step-by-step approach.  We can assure you that only this course will be enough for you to learn HTML and CSS from scratch to intermediate. Html css, hmtl, html and css, html, website design, css, website coding, build responsive real-world websites with html and css, responsive web design, website designer, design website.HTML stands for HyperText Markup Language, which is the biggest markup language used to display web pages on the Internet. In other words, web pages are composed of HTML, which is used to display text, images, or other resources through a web browser.HTML is the basic building block of the web and actually isn’t a technical programming language. It is responsible for the structure of the website.In this course, we will start with HTML, which is the basis of web development and then we will continue to learn CSS.",
+    "details": "This course will be your gateway to learn web design with HTML5, and CSS3 with a step-by-step approach.  We can assure you that only this course will be enough for you to learn HTML and CSS from scratch to intermediate. Html css, hmtl, html and css, html, website design, css, website coding, build responsive real-world websites with html and css, responsive web design, website designer, design website.HTML stands for HyperText Markup Language, which is the biggest markup language used to display web pages on the Internet. In other words, web pages are composed of HTML, which is used to display text, images, or other resources through a web browser.HTML is the basic building block of the web and actually isn’t a technical programming language. It is responsible for the structure of the website.In this course, we will start with HTML, which is the basis of web development and then we will continue to learn CSS.",
     "feature": [
       "HTML & CSS.",
       "Learn to create static HTML sites",
@@ -376,7 +376,7 @@
     "_id": "1b03149c50f1bec662062d930bf46489",
     "category_id": "02",
     "student": 5406,
-    "level" : "Beginner",
+    "level" : "Advanced",
     "price": 54.99,
     "rating": { "number": 4.4, "badge": "Excellent" },
     "title": "Advanced Javascript",
