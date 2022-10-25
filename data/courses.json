@@ -373,64 +373,92 @@
     ]
   },
   {
-    "_id": "be44c843d61859cc0b87cae85c55f9db",
-    "category_id": "01",
-    "student": 231,
-    "level" : "Beginner",
-    "price": 74.99,
-    "rating": { "number": 4.6, "badge": "Excellent" },
-    "title": "US to name military mission in Ukraine and appoint commander – WSJ",
-    "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-    "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions.",
-    "feature": [
-      "GUI Programming Support.",
-      "High-Level Language",
-      "Python is a Portable language.",
-      "Python is an Integrated language.",
-      "Frontend and backend development."
-    ]
-  },
-  {
     "_id": "1b03149c50f1bec662062d930bf46489",
     "category_id": "02",
-    "student": 546,
-    "title": "Opinion: After a summer of surprising successes, President Biden is on a roll",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+    "student": 5406,
+    "level" : "Beginner",
+    "price": 54.99,
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "title": "Advanced Javascript",
+    "image_url": "https://cdn.jsdelivr.net/gh/jamesxwang/cdn@master/img/js/JavaScript.jpg",
+    "details": "You will dramatically improve your chances of getting past a technical interview, landing that dream job and earning more money. If you are like me you learnt Javascript by just muddling along, seeing what works and learning a thing or two every day.However, without a grasp of the deeper fundamentals, you will hit quite a few head scratchy issues, introduce bugs, find it hard to read and understand framework and library code and won’t be considered a senior developer.This unique course teaches you advanced javascript knowledge through a series of interview questions, with regular quizzes on the way through to cement your knowledge.",
+    "feature": [
+      "Pass stage one JavaScript telephone interviews.",
+      "Confidently Interview other JavaScript candidates.",
+      "Impress interviewers with knowledge about advanced JavaScript features.",
+      "Prepare for working on complex frontend frameworks like React, Vue, Svelte or Angular."
+    ]
   },
   {
     "_id": "7f5b80c1cdd4df0111918883eae07349",
     "category_id": "03",
-    "student": 1870,
-    "title": "Ukraine receives more military aid from allies on its independence day",
+    "student": 10870,
+    "level" : "Advanced",
+    "price": 94.99,
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "title": "Python Bootcamp From Zero to Hero in Python",
     "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-    "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+    "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story",
+    "feature": [
+      "You will build games and programs that use Python libraries.",
+      "You will learn how to leverage the power of Python to solve tasks..",
+      "earn to use Python professionally, learning both Python 2 and Python 3!",
+      "Get an understanding of how to create GUIs in the Jupyter Notebook system!"
+    ]
   },
   {
     "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
-    "category_id": "07",
-    "rating": { "number": 4.2, "badge": "Excellent" },
-    "student": 354,
-    "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
-    "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-    "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
+    "category_id": "06",
+    "student": 3504,
+    "level" : "Advanced",
+    "price": 84.99,
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "title": "C++ 20 Masterclass : From Fundamentals to Advanced",
+    "image_url": "https://miro.medium.com/max/1200/1*oFfl-1UKLtd8XOswpwgriA.png",
+    "details": "By learning modern C++, you will be setting yourself up for success in writing software that runs devices ranging from bare metal embedded devices,  to mainstream electronic tech products like fridges, toasters, to networking infrastructure like routers and switches, all the way to power plants, manufacturing facilities and medical equipment. C++ is simply everywhere!This course was carefully designed in a way  that it  will make you ready to take on technologies  and industries where C++ is widely used, by teaching you Modern C++ the way it is used in industry, and you will learn and master how to use shiny new features from the latest C++ standard (C++20) like ranges, modules coroutines, concepts, the three way comparison infrastructure and many more features spread out through out chapters and lectures in the course.",
+    "feature": [
+      "C++98.",
+      "Coroutines.",
+      "Const correctness.",
+      "Function like entities and callbacks.",
+      "Character manipulation and strings",
+      "Stl containers, iterators and algorithms."
+    ]
   },
   {
     "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
     "category_id": "05",
-
-    "student": 100,
-    "title": "California to phase out sales of gas-powered cars",
-    "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
-    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+    "student": 10000,
+    "level" : "Advanced",
+    "price": 35.99,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Learn Java in 2Hour Practical Course with ZERO boring Theory",
+    "image_url": "https://1jpbifjq6sjdx.cdn.shift8web.ca/wp-content/uploads/2020/06/java-development-services.jpg",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union.",
+    "feature": [
+      "Get hands-on experience by solving Java problems.",
+      "How to write complex Java programs like a Software Engineer.",
+      "Learn Java best practices from a professional Software Enginee.",
+      "How to perform various operations with Java programming."
+    ]
   },
   {
     "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
     "category_id": "04",
-
-    "student": 100,
-    "title": "“Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy",
-    "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
-    "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship over Ferrari’s Charles Leclerc ahead of the race. And at this rate, Max can cruise comfortably, to claim his 2nd Championship title this season. But Max does not want to lose his focus and momentum ahead of his home GP. He wants to claim his 10th win of the season in front of his home crowd in style. Recently, the Dutch GP unveiled a rather unique-looking trophy. And McLaren driver Lando Norris liked the new trophy.   a journalist asks lando if he likes the dutch gp trophy and if it will be his on sunday: “no, it’s max’s. everyone knows it’s max’s already. maybe max will give it to me, he has plenty.” i love lando norris and max verstappen friendship pic.twitter.com/LQh9cnwjLv — comfort lando norris (@safeforlando) August 31, 2022 The Brit was grabbing a bicycle in the F1 paddock when he was interviewed by Dutch press personnel. Norris was asked what he thought of the Dutch Grand Prix trophy."
+    "student": 10050,
+    "level" : "Advanced",
+    "price": 55.99,
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "APIs in PHP: from Basic to Advanced",
+    "image_url": "https://i.ytimg.com/vi/dlGtSoigdB0/maxresdefault.jpg",
+    "details": "This course is designed for the PHP developer who wants to learn in depth how to use APIs from their code. I designed the course to be easily understood by PHP developers who have no previous experience of using APIs, and who want to develop full, secure APIs quickly and easily. Learning the techniques on this course will enable you to create APIs that are secure, robust and that comply with industry standards.Suitable for all PHP developers, you'll start by learning the basics of how APIs work.You'll learn various techniques for consuming APIs from PHP, along with their advantages and disadvantages.We'll build a full API from scratch, with each concept explained in detail at every stage.You'll learn what REST and what RESTful APIs are, why we use them, and how to make your API RESTful.Throughout the course, we'll build code that you can reuse in all your projects.All the source code developed in the lectures is available to download.All the time we'll adhere to industry standards and best practices.Each section has short, self-contained lectures that you can go back to reinforce specific concepts if you need to.",
+    "feature": [
+      "Understand how APIs work.",
+      "Create an API from scratch in plain PHP.",
+      "Understand what REST and RESTful APIs are.",
+      "Understand how different API authentication mechanisms work.",
+      "Create, Read, Update, Delete (CRUD) using an API.",
+      "Understand how HTTP requests and responses work."
+    ]
   }
 ]
